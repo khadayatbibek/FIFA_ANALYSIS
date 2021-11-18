@@ -1,2 +1,2 @@
 # FIFA_ANALYSIS
- Data analysis is done using Pandas,numpay ,seaborn and matplitlib
+ Data analysis is done using Pandas,numpy ,seaborn and matplitlib
